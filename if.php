@@ -10,7 +10,6 @@ $d = $b**2-4*$a*$c;
 
 echo "index";
 
-echo "index";
 
 
 ?>
